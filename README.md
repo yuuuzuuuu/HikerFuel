@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en"><head>
     <style data-vite-theme="" data-inject-first="">:root {
       --background: 0 0% 100%;
